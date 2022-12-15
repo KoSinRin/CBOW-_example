@@ -1,4 +1,4 @@
-# KoSinRin-CBOW-_ex
+# KoSinRin-CBOW-_example
 
 
 Пример реализации модели CBOW.
