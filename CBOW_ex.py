@@ -21,6 +21,7 @@ for sentence in sentences:
             word_dict[word] = len(word_dict)
             
 # создание CBOW training data
+
 cbow_pairs = []
 for sentence in sentences:
     for i, word in enumerate(sentence):
