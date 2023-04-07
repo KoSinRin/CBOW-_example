@@ -10,6 +10,7 @@ vocab_size = 10000
 embedding_dim = 100
 window_size = 2
 batch_size = 64
+num_epochs = 20
 
 # генерация training data
 sentences = [['I', 'love', 'working', 'with', 'data'], ['Machine', 'learning', 'is', 'fun']]
