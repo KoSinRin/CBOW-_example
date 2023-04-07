@@ -13,6 +13,7 @@ window_size = 2
 batch_size = 64
 
 # генерация training data
+
 sentences = [['I', 'love', 'working', 'with', 'data'], ['Machine', 'learning', 'is', 'fun']]
 word_dict = {}
 for sentence in sentences:
